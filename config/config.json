@@ -1,0 +1,12 @@
+{
+  "db": {
+    "data_center": {
+      "host": "172.16.1.244",
+      "port": 3306,
+      "user": "root",
+      "password": "root",
+      "db": "data_center",
+      "charset": "utf8mb4"
+    }
+  }
+}
